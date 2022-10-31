@@ -1,0 +1,23 @@
+body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+img{
+    border-radius: 50%;
+    width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#p1{
+  text-align: center;
+  color: rgb(15, 3, 11);
+  font-size: 110%;
+  font-style: italic;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+form{
+    text-align: center;
+}
